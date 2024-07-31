@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade AV2 - Contato</title>
+    <link rel="stylesheet" type="text/css" href="css/estilocontato.css"/>
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+    <section id="principal">
+        <header id="menu">
+            <div id="nome">
+                <p class="marcenaria">J.C Oliveira Marcenaria</p>
+            </div>
+            <div id="homepage">
+                <a href="index.html">
+                    <p class="home"> Home </p>
+                </a>
+            </div>
+            <div id="produtpage" onmouseenter="mudarestado()">
+                <a href="produtos.html">
+                    <p class="produtos"> Produtos </p>
+                </a>
+            </div>
+            <div id="contatpage">
+                <a href="contato.html">
+                    <p class="contato"> Contato </p>
+                </a>
+            </div>
+        </header>
+        <section id="divcont">
+            <div id="logo">
+                <img src="img/logo.png" class="logoimg">
+            </div>
+            <div id="info">
+                <p class="text1"> <strong> Contatos </strong> </p>
+                <p class="num"> Número: 119999999</p>
+                <p class="email1">Email: emailmarcenaria@gmail.com</p>
+            </div>
+            <div id="caixa1">
+                <form>
+                    <p class="frase"> <strong>Algum produto indisponível? Deixe seus dados e nós avisaremos quando tivermos no estoque!</strong></p>
+                    <input type="text" class="nome" required placeholder="Nome" /> 
+                    <input type="email" class="email2" required placeholder="Email" />
+                    <input type="tel" class="numero" required placeholder="(xx) xxxxx-xxxx" />
+                    <select class="opcoes">
+                        <option value="vazio">Escolha uma opção</option>
+                        <option value="5gav">Closet com cinco gavetas</option>
+                        <option value="9esp">Closet com nove espaços</option>
+                        <option value="8gav">Closet com oito gavetas</option>
+                        <option value="4gav">Closet com quatro gavetas</option>
+                        <option value="4esp">Closet com quatro espaços</option>
+                        <option value="6gav">Closet com seis gavetas</option>
+                        <option value="2port">Closet com duas portas</option>
+                        <option value="2gav">Closet com duas gavetas</option>
+                        <option value="gabban">Gabinete para Banheiro</option>
+                    </select>
+                    <input type="submit" value="Enviar Formulário" class="envia">
+                    <input type="reset" value="Limpar Campos" class="reseta">
+                </form>
+            </div>
+        </section>
+    </section>
+    <footer>
+        <div id="rodape">
+            <p class="textorodape">JC Oliveira Marcenaria</p>
+        </div>
+    </footer>
+</body>
+
+</html>

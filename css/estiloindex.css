@@ -1,0 +1,195 @@
+@media(max-width:2000px) {
+
+  #principal{
+    width: 1850px;
+    height: 1200px;
+    background-color: rgb(255, 250, 243);
+  }
+  #menu{
+    width: 1850px;
+    height: 50px;
+    position: relative;
+    display: flex;
+    background-color: rgb(253, 245, 232);
+  }
+
+  #nome{
+    width: 20%;
+    height: 50px;
+    display: flex;
+    margin-left: 50px;
+  }
+
+  .marcenaria{
+    font-size: 35px;
+    margin-top: 5px;
+  }
+
+  #homepage{
+    width: 7%;
+    height: 50px;
+    display: flex;
+    margin-left: 1000px;
+  }
+  
+  .home{
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+  #produtpage{
+    width: 7%;
+    height: 50px;
+    display: flex;
+  }
+
+  .produtos{
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+  #contatpage{
+    width: 7%;
+    height: 50px;
+    margin-left: 30px;
+    display: flex;
+  }
+
+  .contato{
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+
+  #sobre{
+    width: 1850px;
+    height: 1000px;
+    position: relative;
+    margin-top: 5px;
+  }
+
+  #imagem{
+    width: 1850px;
+    height: 400px;
+    position: absolute;
+    background-color: #000;
+  }
+
+  .bannerimg{
+    width: 100%;
+    height: 400px;
+    opacity: 20%;
+  }
+  
+  #textosobre{
+    width: 200px;
+    height: 110px;
+    position: absolute;
+    margin-left: 810px;
+  }
+
+  .texto1{
+    font-size: 30px;
+    color: #fff;
+  }
+
+  #textosobre2{
+    width: 1000px;
+    height: 290px;
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 400px;
+  }
+
+  .texto2{
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+  }
+
+  #imgtexto3{
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    margin-top: 410px;
+    background-color: #000;
+    display: flex;
+  }
+
+  .img1{
+    width: 700px;
+    height: 300px;
+    opacity: 60%;
+  }
+
+  #textosobre3{
+    width: 1150px;
+    height: 300px;
+    background-color: #000;
+    margin-top: 410px;
+    position: absolute;
+    display: flex;
+    margin-left: 700px;
+    opacity: 80%;
+  }
+
+  .texto3{
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+  }
+
+  #imgtexto4{
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    margin-top: 725px;
+    background-color: #000;
+    display: flex;
+    margin-left: 1150px;
+  }
+
+  .img2{
+    width: 700px;
+    height: 300px;
+    opacity: 60%;
+  }
+
+  #textosobre4{
+    width: 1150px;
+    height: 300px;
+    background-color: #000;
+    margin-top: 2px;
+    position: absolute;
+    display: flex;
+    opacity: 80%;
+    margin-top: 725px;
+  }
+
+  .texto4{
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+  }
+
+  #rodape{
+    width: 1850px;
+    height: 50px;
+    background-color: #000;
+    position: absolute;
+  }
+
+  .textorodape{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+  }
+}
+
+@media(max-width:1000px) {
+
+}
+
+@media(max-width:500px) {}

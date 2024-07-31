@@ -1,0 +1,575 @@
+@media(max-width:2000px) {
+
+    #principal{
+        width: 1850px;
+        height: 1650px;
+        background-color: rgb(255, 250, 243);
+      }
+      #menu{
+        width: 1850px;
+        height: 50px;
+        position: relative;
+        display: flex;
+        background-color: rgb(253, 245, 232);
+      }
+    
+      #nome{
+        width: 20%;
+        height: 50px;
+        display: flex;
+        margin-left: 50px;
+      }
+    
+      .marcenaria{
+        font-size: 35px;
+        margin-top: 5px;
+      }
+    
+      #homepage{
+        width: 7%;
+        height: 50px;
+        display: flex;
+        margin-left: 1000px;
+      }
+      
+      .home{
+        font-size: 20px;
+        margin-top: 10px;
+      }
+    
+      #produtpage{
+        width: 7%;
+        height: 50px;
+        display: flex;
+      }
+    
+      .produtos{
+        font-size: 20px;
+        margin-top: 10px;
+      }
+    
+      #contatpage{
+        width: 7%;
+        height: 50px;
+        margin-left: 30px;
+        display: flex;
+      }
+    
+      .contato{
+        font-size: 20px;
+        margin-top: 10px;
+      }
+
+    #barra1{
+        width: 1850px;
+        height: 100px;
+        position: absolute;
+        background-color: rgb(211, 176, 124);
+        margin-top: 10px;
+    }
+
+    .prods{
+        font-size: 30px;
+        text-align: center;
+        text-decoration-line: underline;
+    }
+
+    #closet1{
+        width: 200px;
+        height: 300px;
+        margin-top: 250px;
+        margin-left: 200px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet1img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet1txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet2{
+        width: 200px;
+        height: 300px;
+        margin-top: 250px;
+        margin-left: 800px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet2img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet2txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet3{
+        width: 200px;
+        height: 300px;
+        margin-top: 250px;
+        margin-left: 1350px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet3img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet3txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet4{
+        width: 200px;
+        height: 300px;
+        margin-top: 700px;
+        margin-left: 200px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet4img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet4txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet5{
+        width: 200px;
+        height: 300px;
+        margin-top: 700px;
+        margin-left: 800px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet5img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet5txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet6{
+        width: 200px;
+        height: 300px;
+        margin-top: 700px;
+        margin-left: 1350px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet6img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet6txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet7{
+        width: 200px;
+        height: 300px;
+        margin-top: 1150px;
+        margin-left: 200px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet7img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet7txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet8{
+        width: 200px;
+        height: 300px;
+        margin-top: 1150px;
+        margin-left: 800px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet8img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet8txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+    
+    #gabinete{
+        width: 200px;
+        height: 300px;
+        margin-top: 1150px;
+        margin-left: 1350px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .gabineteimg{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .gabinetetxt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #rodape{
+        width: 1850px;
+        height: 50px;
+        background-color: #000;
+        position: absolute;
+    }
+    
+    .textorodape{
+        font-size: 20px;
+        color: #fff;
+        text-align: center;
+    }
+}
+@media(max-width:320px) {
+    #principal {
+        width: 320px;
+        height: 1200px;
+        background-color: rgb(255, 250, 202);
+    }
+    #menu {
+        position: relative;
+        width: 305px;
+        height: 100px;
+        display: flex;
+        background-color: rgb(255, 250, 232);
+    }
+    #nome {
+        width:320px;
+        height: 50px;
+        display: flex;
+        margin-left: 50px;
+    }
+    .marcenaria {
+        font-size: 20px;
+        margin-left: 10px;
+        position: absolute;
+    }
+
+    #homepage {
+        margin-left: 25px;
+        position: absolute;
+        margin-top: 50px;
+        width: 100px;
+        height: 50px;
+        display: flex;
+    }
+
+    .home {
+        font-size: 20px;
+    }
+
+    #produtpage {
+        margin-left: 100px;
+        position: absolute;
+        margin-top: 50px;
+        width: 100px;
+        height: 50px;
+        display: flex;
+    }
+
+    .produtos {
+        font-size: 20px;
+    }
+
+    #contatpage {
+        margin-left: 200px;
+        position: absolute;
+        margin-top: 50px;
+        width: 100px;
+        height: 50px;
+        display: flex;
+    }
+
+    .contato {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    #barra1{
+        width: 305px;
+        height: 100px;
+        position: absolute;
+        background-color: rgb(211, 176, 124);
+        margin-top: 10px;
+    }
+
+    .prods{
+        font-size: 30px;
+        text-align: center;
+        text-decoration-line: underline;
+    }
+
+    #closet1{
+        display: block;
+        z-index: 1;
+        width: 200px;
+        height: 300px;
+        border: 1px solid #000;
+        position: fixed;
+    }
+
+    .closet1img{
+        width: 170px;
+        height: 100px;
+    }
+    
+    .closet1txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet2{
+        width: 200px;
+        height: 300px;
+        margin-top: 250px;
+        margin-left: 800px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet2img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet2txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet3{
+        width: 200px;
+        height: 300px;
+        margin-top: 250px;
+        margin-left: 1350px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet3img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet3txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet4{
+        width: 200px;
+        height: 300px;
+        margin-top: 700px;
+        margin-left: 200px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet4img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet4txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet5{
+        width: 200px;
+        height: 300px;
+        margin-top: 700px;
+        margin-left: 800px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet5img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet5txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet6{
+        width: 200px;
+        height: 300px;
+        margin-top: 700px;
+        margin-left: 1350px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet6img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet6txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet7{
+        width: 200px;
+        height: 300px;
+        margin-top: 1150px;
+        margin-left: 200px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet7img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet7txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #closet8{
+        width: 200px;
+        height: 300px;
+        margin-top: 1150px;
+        margin-left: 800px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .closet8img{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .closet8txt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+    
+    #gabinete{
+        width: 200px;
+        height: 300px;
+        margin-top: 1150px;
+        margin-left: 1350px;
+        border: 1px solid #000;
+        position: absolute;
+    }
+
+    .gabineteimg{
+        width: 170px;
+        height: 100px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .gabinetetxt{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    #rodape{
+        width: 1850px;
+        height: 50px;
+        background-color: #000;
+        position: absolute;
+    }
+    
+    .textorodape{
+        font-size: 20px;
+        color: #fff;
+        text-align: center;
+    }
+}
